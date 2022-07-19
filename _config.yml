@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Test title
 email: your-email@domain.com
-author: GitHub User
+author: Jung Heedo
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -153,11 +153,11 @@ yat:
 #   - tags.html
 #   - about.md
 
-# Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+ Page default value
+ defaults:
+   home:
+     heading: "Financial Bigdata & Machine Learning"
+     subheading: "Your awesome subheading"
 #     banner: "Your image url"
 
 # Banner default settings
